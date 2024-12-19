@@ -1,0 +1,12 @@
+name: shinyapp_a3
+title: shinyapp_a3
+username: jpaynestudentrmit
+account: jpaynestudentrmit
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10345349
+bundleId: 7866272
+url: https://jpaynestudentrmit.shinyapps.io/shinyapp_a3/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

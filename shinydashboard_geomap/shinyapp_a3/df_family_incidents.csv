@@ -1,0 +1,6 @@
+year,year_ending,police_region,LGA,family_incidents,rate_100k,total_incidents,prop_family,rank
+2023,June,2 Eastern,Yarra Ranges,1977,1249.105039697,4844,0.40813377374071014,1
+2023,June,1 North West Metro,Nillumbik,419,662.198182304,1159,0.361518550474547,2
+2023,June,3 Southern Metro,Casey,5422,1391.869228284,16102,0.33672835672587254,3
+2023,June,3 Southern Metro,Cardinia,1565,1228.644043944,4889,0.3201063612190632,4
+2023,June,1 North West Metro,Wyndham,4496,1402.13497285,14116,0.31850382544630207,5
